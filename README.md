@@ -6,8 +6,9 @@
 
 A abordagem serão conceitos essenciais para automação de testes, segue abaixo temas abordados:
 
-- Como fazer um cadastro com Robot
-- Como fazer login
-- Como pesquisar no search
-- Como fazer upload de fotos/documentos
-- Como proteger dados sensíveis, tais como senhas e tokens de acesso
+- Como fazer um cadastro com Robot  IN PROGRESS
+- Como fazer login  To do
+- Como pesquisar no search  To do
+- Como fazer upload de fotos/documentos  To do
+- Como proteger dados sensíveis, tais como senhas e tokens de acesso To do
+
